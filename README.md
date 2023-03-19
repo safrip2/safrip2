@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 
 # 📊 My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=safrip2&count_private=true&show_icons=true&include_all_commits=true)
