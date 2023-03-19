@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=safrip2.safrip2)
 
 # 📫 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-safrip2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berlian-safri-prakoso/)](https://www.linkedin.com/in/berlian-safri-prakoso/)
-[![Instagram Badge](https://img.shields.io/badge/-safrip2-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/safri_p2/)](https://www.instagram.com/safri_p2/)
 <div>
   <p align = "center">
+  <a href="https://www.linkedin.com/in/berlian-safri-prakoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/safri_p2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:berliansafrip@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 <!--
