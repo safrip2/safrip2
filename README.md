@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 # 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-safrip2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berlian-safri-prakoso/)](https://www.linkedin.com/in/berlian-safri-prakoso/)
 [![Instagram Badge](https://img.shields.io/badge/-safrip2-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/safri_p2/)](https://www.instagram.com/safri_p2/)
-[![Gmail Badge](https://img.shields.io/badge/-berliansafrip@gmail.com-red?style=flat-square&logo=Gmail&logoColor=wh]]
+[![Gmail Badge](https://img.shields.io/badge/-safrip2-red?style=flat-square&logo=Gmail&logoColor=wh]]
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-safrip2-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/safrip2/)](https://twitter.com/safrip2/)
 -->
